@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Tada (Todo App) (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Tada (Todo App) (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

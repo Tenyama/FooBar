@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "FooBar (Unpackaged)": {
+        "commandName": "Project"
+      },
+      "FooBar (Package)": {
+        "commandName": "MsixPackage"
+      }
+    }
+}
